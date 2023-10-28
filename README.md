@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently taking a break with coding - building physical things instead
-- I'm looking to meet people in low-tech and self sustainability ecosystems
+- 🔭 I’m currently working as a freelance and tinkering on open-source projects
+- 🕺 I'm looking to meet people interested in low-technologies and self sustainability
 - 💬 Ask me about Javascript, Blockchains, Full-Stack web app development
 - 📫 Reach me on Telegram @pacobacpac
 
