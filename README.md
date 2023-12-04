@@ -5,4 +5,4 @@
 - 💬 Ask me about Javascript, Blockchains, Full-Stack web app development
 - 📫 Reach me on Telegram @pacobacpac
 
-- Previous builder @ [Mooni](https://app.mooni.tech), [Commons Stack](https://commonsstack.org), [Metagame](https://metagame.wtf/), [Amon](https://amontech.org/)
+- Previously builder @ [Mooni](https://mooni.tech), [Commons Stack](https://commonsstack.org), [Metagame](https://metagame.wtf/), [Amon](https://amon.tech)
